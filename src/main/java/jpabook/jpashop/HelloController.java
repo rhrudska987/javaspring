@@ -12,5 +12,4 @@ public class HelloController {
         model.addAttribute("data", "hello!!");
         return "hello"; //hello.html로 이동
     }
-
 }
